@@ -20,6 +20,6 @@ md5sum -c md5sums
 
 Check that it says OK for every split file.
 
-Please report any issues with the multiple images on this repository's issue tracker.
+Please report any issues with the multiple images on this repository's issue tracker, as I have not yet tested each image.
 
 
