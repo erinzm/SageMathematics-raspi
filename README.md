@@ -6,6 +6,8 @@ On this Github repository, there is a issue tracker.
 Please do not use it for Sage-related problems, as those should be opened on the Sage trac wiki/tracker.
 Instead, use it for Sage issues related to the Raspberry Pi.
 
+The downloading and unpacking should occur on the Raspberry Pi itself.
+
 The binary is split into multiple files.
 This means that you will have to reassemble them.
 In addition, to make sure of the integrity of each of the archives, a MD5 sum must be run. There is a file, md5sums, which contains the sums for each of the split files. 
