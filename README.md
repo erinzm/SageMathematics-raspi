@@ -1,3 +1,13 @@
+##IMPORTANT:
+#This repo is now deprecated.
+It is only maintained temporarily for archival and issue tracking purposes.
+The full tarball is being migrated to DropBox.
+This repo will continue to exist as a wiki and as an issue tracker
+#Thank You
+*************************************************************************************
+=====================================================================================
+*************************************************************************************
+
 This is a recompilation of Sage Mathematics for the Armv6l armhf Raspberry Pi.
 
 More info about Sage is available at www.sagemath.org
