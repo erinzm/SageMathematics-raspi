@@ -1,11 +1,8 @@
 ##IMPORTANT:
-#This repo is now deprecated.
-It is only maintained temporarily for archival and issue tracking purposes.
-The full tarball is being migrated to DropBox.
-This repo will continue to exist as a wiki and as an issue tracker
-
-[Download it here](https://dl.dropboxusercontent.com/s/7z6qry2cu06dhfp/sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz?dl=1&token_hash=AAFSlOce7sCdyBdThWZCcbhEW7Ez0TvhE8GDnWX5Y9KABQ)
-#Thank You
+#This repo is now *partially* **unused**.
+It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
+The tarball is now hosted by [Dropbox](dropbox.com),
+and can be downloaded [here](https://dl.dropboxusercontent.com/s/7z6qry2cu06dhfp/sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz?dl=1&token_hash=AAFSlOce7sCdyBdThWZCcbhEW7Ez0TvhE8GDnWX5Y9KABQ)
 
 =====================================================================================
 
@@ -14,24 +11,24 @@ This is a recompilation of Sage Mathematics for the Armv6l armhf Raspberry Pi.
 More info about Sage is available at www.sagemath.org
 
 On this Github repository, there is a issue tracker.
-Please do not use it for Sage-related problems, as those should be opened on the Sage trac wiki/tracker.
+Please do not use it for Sage-related problems, as those should be opened on the [Sage trac wiki/tracker](trac.sagemath.org).
 Instead, use it for Sage issues related to the Raspberry Pi.
 
 The downloading and unpacking should occur on the Raspberry Pi itself.
+To download:
 
-The binary is split into multiple files.
-This means that you will have to reassemble them.
-In addition, to make sure of the integrity of each of the archives, a MD5 sum must be run. There is a file, md5sums, which contains the sums for each of the split files. 
+````
+  cd ~
+  mkdir sage-math
+  cd sage-math
+  wget https://dl.dropboxusercontent.com/s/7z6qry2cu06dhfp/sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz?dl=1&token_hash=AAFSlOce7sCdyBdThWZCcbhEW7Ez0TvhE8GDnWX5Y9KABQ
+````  
 
-To untar all of the files together (execute in the root directory of the pulled repository), run this command:
+To untar all the tarball:
 
-cat sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz_* | tar zxvf -
-
-To check the split files against the md5sums file, run this command:
-
-md5sum -c md5sums
-
-Check that it says OK for every split file.
+````
+  tar zxvf sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
+````
 
 Please report any issues with the multiple images on this repository's issue tracker, as I have not yet tested each image.
 
