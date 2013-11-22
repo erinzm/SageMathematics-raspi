@@ -24,6 +24,20 @@ To download:
   wget https://dl.dropboxusercontent.com/s/7z6qry2cu06dhfp/sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz?dl=1&token_hash=AAFSlOce7sCdyBdThWZCcbhEW7Ez0TvhE8GDnWX5Y9KABQ
 ````  
 
+To check the tarball's integrity:
+
+````
+  md5sum sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
+````
+or
+````
+  md5 sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
+````
+
+If the output matches this:
+b09b21311e94a31d487360e12786b953
+Then the tarball is good.
+
 To untar all the tarball:
 
 ````
