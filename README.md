@@ -35,7 +35,9 @@ or
 ````
 
 If the output matches this:
-b09b21311e94a31d487360e12786b953
+````
+  b09b21311e94a31d487360e12786b953
+````
 Then the tarball is good.
 
 To untar all the tarball:
