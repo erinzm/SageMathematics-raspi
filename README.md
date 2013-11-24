@@ -1,7 +1,7 @@
 ##IMPORTANT:
 #This repo is now *partially* **unused**.
 It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
-The tarball is now hosted by [Dropbox](dropbox.com),
+The tarball is now hosted by Dropbox,
 and can be downloaded [here](http://goo.gl/CX2Hli)
 
 =====================================================================================
