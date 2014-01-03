@@ -1,5 +1,9 @@
+*Due to feedback about updated versions, watch for a new version going online soon!*
+
+=============================================================================
+
 ##IMPORTANT:
-#This repo is now *partially* **unused**.
+###This repo is now *partially* **unused**.
 It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
 The tarball is now hosted by Dropbox,
 and can be downloaded [here](http://goo.gl/CX2Hli) (I've compressed the link using goo.gl, some computers were crashing,
@@ -10,6 +14,7 @@ and can be downloaded [here](http://goo.gl/CX2Hli) (I've compressed the link usi
 =====================================================================================
 
 This is a recompilation of Sage Mathematics for the Armv6l armhf Raspberry Pi.
+
 
 More info about Sage is available at www.sagemath.org
 
@@ -43,7 +48,7 @@ If the output matches this:
 ````
 Then the tarball is good.
 
-To untar all the tarball:
+To untar the tarball:
 
 ````
   tar zxvf sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
