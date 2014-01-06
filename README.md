@@ -57,6 +57,5 @@ To untar the tarball:
 If the untarring fails, try prefixing tar with sudo - that sometimes works.
 If that doesn't work, *please* post an issue!
 
-Please report any issues with the multiple images on this repository's issue tracker, as I have not yet tested each image.
 
 
