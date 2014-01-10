@@ -15,7 +15,7 @@ It is only maintained temporarily for archival, wiki, and  issue tracking purpos
 =====================================================================================
 
 This is a recompilation of Sage Mathematics for the Armv6l armhf Raspberry Pi.
-If, by any chance, you want to compile it yourself, check out the [wiki](/wiki/)!
+If, by any chance, you want to compile it yourself, check out the [wiki](http://github.com/ArchimedesPi/SageMathematics-raspi/wiki/)!
 
 
 More info about Sage is available at www.sagemath.org
