@@ -7,7 +7,7 @@
 It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
 
 ###The tarball is now hosted by Dropbox,
-###and can be downloaded [here](http://goo.gl/CX2Hli) (I've compressed the link using goo.gl, some computers were crashing,
+###and can be downloaded [here](http://goo.gl/gnzoDx) (I've compressed the link using goo.gl, some computers were crashing,
 ###and I wanted a shorter link so you could type it into the Raspberry Pi. 
 ###Plus, I have analytics, so I know *how many* people download it.)
 
