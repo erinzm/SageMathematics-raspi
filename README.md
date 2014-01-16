@@ -31,7 +31,7 @@ To download:
   cd ~
   mkdir sage-math
   cd sage-math
-  wget http://goo.gl/CX2Hli
+  wget http://goo.gl/gnzoDx
 ````  
 
 To check the tarball's integrity:
