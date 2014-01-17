@@ -1,4 +1,6 @@
-*Due to feedback about updated versions, watch for a new version going online soon!*
+~~*Due to feedback about updated versions, watch for a new version going online soon!*~~
+*Sage 6.0 is finished, ~3 days ETA for the tarball!*
+~ArchimedesPi
 
 =============================================================================
 
