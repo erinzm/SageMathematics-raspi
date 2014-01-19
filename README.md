@@ -1,6 +1,4 @@
-~~*Due to feedback about updated versions, watch for a new version going online soon!*~~
-*Sage 6.0 is finished, ~3 days ETA for the tarball!*
-~ArchimedesPi
+*OK, the new version's up!*
 
 =============================================================================
 
@@ -8,10 +6,12 @@
 ###This repo is now *partially* **unused**.
 It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
 
-###The tarball is now hosted by Dropbox,
-###and can be downloaded [here](http://goo.gl/gnzoDx) (I've compressed the link using goo.gl, some computers were crashing,
-###and I wanted a shorter link so you could type it into the Raspberry Pi. 
-###Plus, I have analytics, so I know *how many* people download it.)
+Downloads:
+===========
+Sage 6.0 (current): [tarball](http://goo.gl/dcpBtR)
+Sage 5.8 (older): [tarball](http://goo.gl/gnzoDx)
+
+*I use Goo.Gl to shorten the links so you can type them into the Pi _easily_*
 
 
 =====================================================================================
