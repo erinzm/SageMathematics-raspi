@@ -8,7 +8,7 @@ It is only maintained temporarily for archival, wiki, and  issue tracking purpos
 
 Downloads:
 ===========
-Sage 6.0 (current): [tarball](http://goo.gl/dcpBtR)
+Sage 6.0 (current): [tarball](http://goo.gl/dcpBtR) <br \>
 Sage 5.8 (older): [tarball](http://goo.gl/gnzoDx)
 
 *I use Goo.Gl to shorten the links so you can type them into the Pi _easily_*
