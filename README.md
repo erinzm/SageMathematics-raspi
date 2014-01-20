@@ -8,8 +8,8 @@ It is only maintained temporarily for archival, wiki, and  issue tracking purpos
 
 Downloads:
 ===========
-Sage 6.0 (current): [tarball](http://goo.gl/dcpBtR) <br \>
-Sage 5.8 (older): [tarball](http://goo.gl/gnzoDx)
+  * Sage 6.0 (current): [tarball](http://goo.gl/dcpBtR)
+  * Sage 5.8 (older): [tarball](http://goo.gl/gnzoDx)
 
 *I use Goo.Gl to shorten the links so you can type them into the Pi _easily_*
 
@@ -33,8 +33,12 @@ To download:
   cd ~
   mkdir sage-math
   cd sage-math
-  wget http://goo.gl/gnzoDx
+  wget <goo.gl url>
 ````  
+Goo.Gl url is either:
+
+  * Sage 6.0 (current): http://goo.gl/dcpBtR
+  * Sage 5.8 (older): http://goo.gl/gnzoDx
 
 To check the tarball's integrity, go to [the MD5 sums page](Md5Hashes.md).
 
@@ -43,7 +47,7 @@ Then the tarball is good.
 To untar the tarball:
 
 ````
-  tar zxvf sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
+  tar zxvf <tarball name>
 ````
 
 If the untarring fails, try prefixing tar with sudo - that sometimes works.
