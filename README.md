@@ -36,7 +36,7 @@ To download:
   wget http://goo.gl/gnzoDx
 ````  
 
-To check the tarball's integrity, go to [the MD5 sums page](blob/master/Md5Hashes.md).
+To check the tarball's integrity, go to [the MD5 sums page](Md5Hashes.md).
 
 Then the tarball is good.
 
