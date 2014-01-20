@@ -36,20 +36,8 @@ To download:
   wget http://goo.gl/gnzoDx
 ````  
 
-To check the tarball's integrity:
+To check the tarball's integrity, go to [the MD5 sums page](blob/master/Md5Hashes.md).
 
-````
-  md5sum sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
-````
-or
-````
-  md5 sage-5.8.raspi-hardfp-armv6l-Linux.tar.gz
-````
-
-If the output matches this:
-````
-  b09b21311e94a31d487360e12786b953
-````
 Then the tarball is good.
 
 To untar the tarball:
