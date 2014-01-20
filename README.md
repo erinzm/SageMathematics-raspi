@@ -50,7 +50,7 @@ To untar the tarball:
   tar zxvf <tarball name>
 ````
 
-If the untarring fails, try prefixing tar with sudo - that sometimes works.
+If the untarring fails, try prefixing `tar` with `sudo` - that sometimes works.
 If that doesn't work, *please* post an issue!
 
 
