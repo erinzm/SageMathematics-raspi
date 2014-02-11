@@ -1,10 +1,4 @@
-*OK, the new version's up!*
-
-=============================================================================
-
-##IMPORTANT:
-###This repo is now *partially* **unused**.
-It is only maintained temporarily for archival, wiki, and  issue tracking purposes.
+*FYI this repo's for bugs and docs + the [wiki](http://github.com/ArchimedesPi/SageMathematics-raspi/wiki/), not downloads or source. see below for downloads.*
 
 Downloads:
 ===========
