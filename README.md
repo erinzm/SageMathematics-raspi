@@ -17,7 +17,7 @@ If, by any chance, you want to compile it yourself, check out the [wiki](http://
 More info about Sage is available at www.sagemath.org
 
 On this Github repository, there is a issue tracker.
-Please do not use it for Sage-related problems, as those should be opened on the [Sage trac wiki/tracker](trac.sagemath.org).
+Please do not use it for Sage-related problems, as those should be opened on the [Sage trac wiki/tracker](http://trac.sagemath.org).
 Instead, use it for Sage issues related to the Raspberry Pi.
 
 The downloading and unpacking should occur on the Raspberry Pi itself.
