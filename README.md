@@ -1,3 +1,6 @@
+![Still Maintained](http://stillmaintained.com/ArchimedesPi/SageMathematics-raspi.png)
+
+
 *FYI this repo's for bugs and docs + the [wiki](http://github.com/ArchimedesPi/SageMathematics-raspi/wiki/), not downloads or source. see below for downloads.*
 
 Downloads:
