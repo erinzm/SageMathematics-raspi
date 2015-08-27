@@ -1,3 +1,4 @@
+### *if you've tried to contact me about Sage on the Raspberry Pi recently, I've been having some email-related difficulties, so please resend the message!* 
 *FYI this repo's for bugs and docs + the [wiki](http://github.com/ArchimedesPi/SageMathematics-raspi/wiki/), not downloads or source. see below for downloads.*
 
 Downloads:
