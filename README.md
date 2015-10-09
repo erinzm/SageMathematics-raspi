@@ -35,10 +35,20 @@ Goo.Gl url is either:
   * Sage 6.0 (current): http://goo.gl/dcpBtR
   * Sage 5.8 (older): http://goo.gl/gnzoDx
 
-To check the tarball's integrity, go to [the MD5 sums page](Md5Hashes.md).
+You should check the integrity of the tarballs. You can check the hashes by running
+```bash
+md5sum <filename>
+```
+or
+```bash
+md5 <filename>
+```
+and seeing if they match these:
 
-Then the tarball is good.
+* Sage 6.0 (current): `a6c931b94488d9e35df148809ceed23f`
+* Sage 5.8: `b09b21311e94a31d487360e12786b953`
 
+That lets you know the tarball isn't corrupted.
 To untar the tarball:
 
 ````
