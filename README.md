@@ -58,5 +58,7 @@ To untar the tarball:
 If the untarring fails, try prefixing `tar` with `sudo` - that sometimes works.
 If that doesn't work, *please* post an issue!
 
-
-
+Running it is as easy as `cd`ing into the unpacked tarball and running
+```bash
+./sage
+```
